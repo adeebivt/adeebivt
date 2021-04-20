@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- Hi, I'm Adeep IVT, a passionate Full Stack web developer from India.
+ Hi, I'm Adeep, a passionate Full Stack web developer from India.
  
 - 🌱 I’m currently learning Django
 - 📫 How to reach me ...[@adeepivt](https://www.linkedin.com/in/adeepivt/);
@@ -19,7 +19,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  [![Adeebs's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeebivt&show_icons=true)](https://github.com/adeebivt/github-readme-stats)
+  [![Adeebs's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeepivt&show_icons=true)](https://github.com/adeepivt/github-readme-stats)
 </details>
 <!---
 adeebivt/adeebivt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
