@@ -4,7 +4,7 @@
  
 - 🌱 I’m currently learning Django
 - 📫 How to reach me ...[@adeepivt](https://www.linkedin.com/in/adeepivt/);
-- 📝 [Resume](https://drive.google.com/file/d/1q98_w-fg1BJBsGb9HURdilGB9tQuZ67d/view)
+- 📝 [Resume](https://drive.google.com/file/d/1yiewuCyFCF06NliXodMFuysXQzFemOvn/view)
 
 **Languages and Tools:**  
 
