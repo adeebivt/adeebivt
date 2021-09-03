@@ -2,7 +2,7 @@
 
  Hi, I'm Adeep, a passionate Full Stack web developer from India.
  
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Rest Framework
 - 📫 How to reach me ...[@adeepivt](https://www.linkedin.com/in/adeepivt/);
 - 📝 [Resume](https://drive.google.com/file/d/1yiewuCyFCF06NliXodMFuysXQzFemOvn/view)
 
